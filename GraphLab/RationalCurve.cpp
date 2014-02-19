@@ -1,0 +1,2 @@
+#include "RationalCurve.h"
+
